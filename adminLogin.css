@@ -1,0 +1,14 @@
+body{
+    background-image: url(images/hacker.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form{
+    color: aliceblue;
+}
+#button:hover{
+    background-color: darkorange;
+}

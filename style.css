@@ -1,0 +1,58 @@
+*{
+    background-color: beige;
+}
+#title h1{
+    font-size: 48px;
+}
+
+#formSection #formContainer{
+    background-color: plum;
+    padding: 16px 40px;
+    border-radius: 32px;
+}
+#formContainer h5, form, form .mb-4, form label, form .form-text, .btn{
+    background-color: plum;
+}
+form .btn input{
+    font-weight: 500;
+    font-size: 20px;
+}
+
+#formSection .btn input{
+    background-color: red;
+    color: white;
+    border: 2px solid crimson;
+    border-radius: 12px;
+    padding: 12px 24px;
+}
+
+#formSection .btn input:hover{
+    background-color: lime;
+    color: black;
+    border: 2px solid crimson;
+    border-radius: 12px;
+}
+
+#contactInfo{
+    margin-top: 24px;
+}
+
+#contactInfo p{
+    font-size: 16px;
+    margin-bottom: 16px;
+    font-weight: 500;
+}
+.plumColor{
+    color: plum;
+    font-weight: 700;
+}
+
+.infoDiv{
+    border: 6px dashed plum;
+    border-radius: 12px;
+    margin: 16px;
+    padding: 12px;
+}
+#infoContainer img{
+    border-radius: 32px;
+}
